@@ -30,7 +30,7 @@ modules:
       - sssd-winbind-idmap
       - wget
       - tmux
-      - nvim
+      - neovim
       - fish
       - zsh
       # - micro
