@@ -33,6 +33,7 @@ modules:
       - neovim
       - fish
       - zsh
+      - setroubleshoot-server
       # - micro
       # - starship
     remove:
